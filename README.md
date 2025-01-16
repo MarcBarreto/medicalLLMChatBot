@@ -107,4 +107,3 @@ llm_pipeline = HuggingFacePipeline(pipeline=pipe)
 ```
 ## 6. License
 This project is licensed under the [MIT License](LICENSE).
-Feel free to use, modify, and distribute the project as needed.
